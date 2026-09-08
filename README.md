@@ -1,7 +1,7 @@
-# CARLA VR for ARHUD— Anonymous Repository
+# CARLA VR for ARHUD
 
 > Supplementary material for the paper:
-> **[Anonymous Submission]** — DOI: `https://doi.org/PLACEHOLDER`
+> CARLA-IVR: An Open CARLA Extension for Immersive AR-HUD Evaluation and Reproducible Experimental Design— DOI: `https://doi.org/PLACEHOLDER`
 >
 > *Submitted for peer review. Authors and affiliation omitted for double-blind review.*
 
@@ -44,7 +44,7 @@ The module is structured as a self-contained submodule to ensure modularity and 
 
 ```bash
 cd <CARLA_ROOT>/Unreal/CarlaUnreal/Content/Carla/
-git submodule add https://github.com/AnonAuthor-26/Carla_ARHUD_VR.git CarlaVR
+git submodule add https://github.com/LeonardoVezzani/Carla_ARHUD_VR.git CarlaVR
 git submodule update --init --recursive
 ```
 
@@ -104,9 +104,9 @@ Make sure parameters passed from the menu to the Game Mode are actually present 
 If you use this repository for your research, please cite:
 
 ```bibtex
-@article{anonsubmission,
+@article{TBD,
   title   = {[Title Omitted for Review]},
-  author  = {Anonymous},
+  author  = {Vezzani,Leonardo; Strada, Francesco, Bottino, Andrea},
   journal = {[Venue Omitted for Review]},
   year    = {2025},
   doi     = {PLACEHOLDER}
