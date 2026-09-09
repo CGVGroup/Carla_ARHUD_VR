@@ -1,10 +1,5 @@
 # CARLA VR for ARHUD
 
-> Supplementary material for the paper:
-> CARLA-IVR: An Open CARLA Extension for Immersive AR-HUD Evaluation and Reproducible Experimental Design— DOI: `https://doi.org/PLACEHOLDER`
->
-> *Submitted for peer review. Authors and affiliation omitted for double-blind review.*
-
 ---
 
 ## Overview
@@ -98,20 +93,6 @@ Press **Play in VR Preview** or package the project for standalone VR execution.
 Make sure parameters passed from the menu to the Game Mode are actually present in the indicated folders.
 
 ---
-
-## Citation
-
-If you use this repository for your research, please cite:
-
-```bibtex
-@article{TBD,
-  title   = {[Title Omitted for Review]},
-  author  = {Vezzani,Leonardo; Strada, Francesco, Bottino, Andrea},
-  journal = {[Venue Omitted for Review]},
-  year    = {2025},
-  doi     = {PLACEHOLDER}
-}
-```
 
 ---
 
